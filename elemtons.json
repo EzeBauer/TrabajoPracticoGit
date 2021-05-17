@@ -1,6 +1,14 @@
-{
+[{
     "nombre":"luis",
     "edad": 28,
     "domicilio": "moreno 2300"
 
+},
+{
+    "nombre":"Damian",
+    "edad": 35,
+    "domicilio": "moreno 2879"
+
 }
+
+]
